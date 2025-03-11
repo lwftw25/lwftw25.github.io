@@ -7,7 +7,7 @@ tags: [java,algorithm,information system]
 
 # Welcome
 Welcome to my docs site about Java-based programming records.
-......
+............
 
 ## Work
 Meet Jekyll - The Static Site Generator
