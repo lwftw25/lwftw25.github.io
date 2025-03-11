@@ -16,6 +16,7 @@ Meet Jekyll - The Static Site Generator
 * wsl
 * vscode
 * docker
+* Bug
   
 ## Code block
 ```javascript
